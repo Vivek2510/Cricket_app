@@ -16,7 +16,6 @@
   ongoing matches.
 - Settings: Options for customizing the user experience.
 
-**WorldCup** - https://m-worldcup.web.app
 
 ## **Screenshots**
 
